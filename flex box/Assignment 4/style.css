@@ -1,0 +1,13 @@
+.gallery {
+    display: inline-block;
+    height: 200px;
+    border: 1px solid aqua;
+    width: 300px;
+}
+
+
+
+.gallery img {
+    width: 100%;
+    height: 100%;
+}
